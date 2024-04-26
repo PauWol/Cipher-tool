@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: cipher_tool
+Version: 1.0
+Summary: A tool for encryption and decryption using Caesar and Substitution ciphers
+Home-page: https://github.com/PauWol/Cipher-tool
+Author: Paul Wolf
+Author-email: your.email@example.com
+Keywords: encryption decryption caesar substitution cipher
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3
+Requires-Dist: collections
+Requires-Dist: colorama
+Requires-Dist: tqdm
